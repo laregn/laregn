@@ -11,8 +11,8 @@
 
 <div>
   <br><a href="https://beacons.ai/laregn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laregn&show_icons=false&theme=midnight-purple&include_all_commits-true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laregn&layout=compact&langs_count=16&theme=midnight-purple">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laregn&show_icons=false&theme=midnight-purple&include_all_commits-true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laregn&layout=compact&langs_count=16&theme=midnight-purple">
   
 </div>
 
