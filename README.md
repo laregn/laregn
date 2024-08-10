@@ -1,8 +1,7 @@
 ### Hello! Eu sou a Lays Regina, mas pode me chamar de LaRegina  👋
 
 
-- 🔭 Atualmente em transição de carreira
-- 🌱 Estudando no bootcamp #ElasTech aprendendo linguagem back-end com Java!
+- 🔭 Engenheira de Software no @PagBank
 - 🌱 Cursando ADS na Uninter - Finalizo em 06/2026
 - 😄 Pronouns: Ela/Dela
 - ☕🍺 Fun fact: Cerveja e café é comigo mesmo!
