@@ -2,7 +2,7 @@
 
 
 - 🔭 Engenheira de Software no @PagBank
-- 🌱 Cursando ADS na Uninter - Finalizo em 06/2026
+- 🌱 Cursando ADS na Unicesumar - Finalizo em 06/2026
 - 😄 Pronouns: Ela/Dela
 - ☕🍺 Fun fact: Cerveja e café é comigo mesmo!
 
